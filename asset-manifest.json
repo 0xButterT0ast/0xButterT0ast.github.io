@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.78214d1c.chunk.css",
-    "main.js": "/static/js/main.bcb52b1a.chunk.js",
-    "main.js.map": "/static/js/main.bcb52b1a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0f580b6c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0f580b6c.js.map",
-    "static/css/2.b28305bc.chunk.css": "/static/css/2.b28305bc.chunk.css",
-    "static/js/2.f1a620d6.chunk.js": "/static/js/2.f1a620d6.chunk.js",
-    "static/js/2.f1a620d6.chunk.js.map": "/static/js/2.f1a620d6.chunk.js.map",
-    "static/js/3.87845771.chunk.js": "/static/js/3.87845771.chunk.js",
-    "static/js/3.87845771.chunk.js.map": "/static/js/3.87845771.chunk.js.map",
+    "main.js": "/static/js/main.8c655510.chunk.js",
+    "main.js.map": "/static/js/main.8c655510.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b00f31f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b00f31f2.js.map",
+    "static/css/2.4333e2a3.chunk.css": "/static/css/2.4333e2a3.chunk.css",
+    "static/js/2.f1978548.chunk.js": "/static/js/2.f1978548.chunk.js",
+    "static/js/2.f1978548.chunk.js.map": "/static/js/2.f1978548.chunk.js.map",
+    "static/js/3.0f937a13.chunk.js": "/static/js/3.0f937a13.chunk.js",
+    "static/js/3.0f937a13.chunk.js.map": "/static/js/3.0f937a13.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.b28305bc.chunk.css.map": "/static/css/2.b28305bc.chunk.css.map",
+    "static/css/2.4333e2a3.chunk.css.map": "/static/css/2.4333e2a3.chunk.css.map",
     "static/css/main.78214d1c.chunk.css.map": "/static/css/main.78214d1c.chunk.css.map",
-    "static/js/2.f1a620d6.chunk.js.LICENSE.txt": "/static/js/2.f1a620d6.chunk.js.LICENSE.txt",
+    "static/js/2.f1978548.chunk.js.LICENSE.txt": "/static/js/2.f1978548.chunk.js.LICENSE.txt",
     "static/media/ClubDay.27cb9a18.png": "/static/media/ClubDay.27cb9a18.png",
     "static/media/ClubNight.50ee2553.png": "/static/media/ClubNight.50ee2553.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
     "static/media/reset.css": "/static/media/font.617a0a92.woff",
     "static/media/navBarLogo.c351d572.png": "/static/media/navBarLogo.c351d572.png",
     "static/media/raffleDay.65bfa9d8.png": "/static/media/raffleDay.65bfa9d8.png",
@@ -23,10 +24,10 @@
     "static/media/test.9dd6945e.png": "/static/media/test.9dd6945e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f580b6c.js",
-    "static/css/2.b28305bc.chunk.css",
-    "static/js/2.f1a620d6.chunk.js",
+    "static/js/runtime-main.b00f31f2.js",
+    "static/css/2.4333e2a3.chunk.css",
+    "static/js/2.f1978548.chunk.js",
     "static/css/main.78214d1c.chunk.css",
-    "static/js/main.bcb52b1a.chunk.js"
+    "static/js/main.8c655510.chunk.js"
   ]
 }
