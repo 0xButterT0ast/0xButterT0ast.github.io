@@ -1,6 +1,6 @@
 {
-    "CONTRACT_ADDRESS": "0xc7914eC0FF1d4F65CB13Bb52C349c543Eec430CE",
-    "SCAN_LINK": "https://polygonscan.com/token/0xc7914eC0FF1d4F65CB13Bb52C349c543Eec430CE",
+    "CONTRACT_ADDRESS": "0x94E2c52500adFC3b3Acb7cbd65CBA5eC12C0BcbE",
+    "SCAN_LINK": "https://polygonscan.com/token/0x94E2c52500adFC3b3Acb7cbd65CBA5eC12C0BcbE",
     "NETWORK": {
       "NAME": "Polygon",
       "SYMBOL": "Matic",
@@ -9,8 +9,8 @@
     "NFT_NAME": "The Midnight Tokers Club",
     "SYMBOL": "ticket",
     "MAX_SUPPLY": 7777,
-    "WEI_COST": 1000000000000000000,
-    "DISPLAY_COST": 1,
+    "WEI_COST": 1250000000000000000,
+    "DISPLAY_COST": 1.25,
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "Mint Page",
     "MARKETPLACE_LINK": "https://themidnighttokersclub.com/index",
