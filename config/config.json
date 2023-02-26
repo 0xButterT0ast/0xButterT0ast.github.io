@@ -21,12 +21,10 @@
   "SHOW_BACKGROUND": true,
 
 
-  "RAFFLE_CONTRACT_ADDRESS": "0x94E2c52500adFC3b3Acb7cbd65CBA5eC12C0BcbE",
-  "RAFFLE_SCAN_LINK": "https://polygonscan.com/token/0x94E2c52500adFC3b3Acb7cbd65CBA5eC12C0BcbE",
+  "RAFFLE_CONTRACT_ADDRESS": "0xCCcF435D16C7d50f25C617B7Fe64814Dd5a80619",
+  "RAFFLE_SCAN_LINK": "https://polygonscan.com/token/0xCCcF435D16C7d50f25C617B7Fe64814Dd5a80619",
   "RAFFLE_NAME": "Midnight Toker",
   "TICKET": "Ticket",
-  "TICKET_WEI_COST": 1250000000000000000,
-  "TICKET_DISPLAY_COST": 1.25,
   "MINT_PAGE": "Mint Page",
   "PROJECT_LINK": "https://themidnighttokersclub.com/index"
 
